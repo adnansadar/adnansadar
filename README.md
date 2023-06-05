@@ -11,5 +11,4 @@
 - 📫 How to reach me: https://adnansadar.netlify.app
 
 
-![](https://github-readme-stats.vercel.app/api?username=adnansadar&show_icons=true&count_private=true&theme=radical)
 
