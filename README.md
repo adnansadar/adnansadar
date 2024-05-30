@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m currently working on a CryptoCurrency Price Tracker Project using React.
+- 🔭 I’m working on building an investment research platform using Next.js, React Query, MUI, and TypeScript.
  
-- 🌱 I’m currently learning Next.js, TypeScript.
+- 🌱 I’m currently learning PostgreSQL, Node.js, and Prisma.
  
 - 💬 I'm interested in developing Front-End Web Apps.
 
